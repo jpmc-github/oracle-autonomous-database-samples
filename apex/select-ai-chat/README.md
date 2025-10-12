@@ -3,7 +3,7 @@
 
 ## Ask Oracle 
 
-The select-ai-chat application has been renamed to "Ask Oracle" which includes many new features.
+The select-ai-chat application has been renamed to "Ask Oracle" and includes many new features.
 
 [ASK ORACLE](../apex/Ask-Oracle/README.md)
 
